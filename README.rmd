@@ -1,1 +1,1 @@
-To launch project, just launch docker-compose.yml
+To launch project, just launch docker compose
